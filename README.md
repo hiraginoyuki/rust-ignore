@@ -5,7 +5,7 @@ A simple macro for syntax-highlighted comments.
 In `Cargo.toml`:
 ```toml
 [dependencies]
-ignore = { git = "https://github.com/hiraginoyuki/ignore" }
+ignore = { git = "https://github.com/hiraginoyuki/rust-ignore" }
 ```
 
 ## Example
